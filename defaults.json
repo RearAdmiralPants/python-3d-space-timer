@@ -1,0 +1,70 @@
+{
+  "light_x": 2.87,
+  "light_y": 2.25,
+  "light_z": 3.29,
+  "light_intensity": 1.43,
+  "spec_power": 67.83,
+  "spec_strength": 1.26,
+  "fresnel": 0.37,
+  "glow": 1.62,
+  "etch": 0.17,
+  "etch_depth": 3.01,
+  "base_alpha": 0.12,
+  "glass_color": [
+    0.2,
+    0.2,
+    0.2
+  ],
+  "text_color": [
+    0.6274509803921569,
+    0.615686274509804,
+    0.8117647058823529
+  ],
+  "light_color": [
+    1.0,
+    1.0,
+    0.7333333333333333
+  ],
+  "font_family": "monospace",
+  "font_bold": true,
+  "gravity": 0.0,
+  "shatter_clear_s": 20.0,
+  "front_subdiv": 1.0,
+  "front_bulge": 0.66,
+  "crystal": 0.03,
+  "crystal_panel": 0.64,
+  "crystal_jitter": 0.69,
+  "crystal_scale": 8.0,
+  "crystal_spike": 0.12,
+  "crystal_density": 2.0,
+  "crystal_vary": 1.0,
+  "crystal_clear": 0.0,
+  "orbit_speed": 0.03,
+  "orbit_radius": 3.3,
+  "orbit_height": 0.65,
+  "sway_degrees": 7.3,
+  "orbit_bob": 0.43,
+  "idle_spin": 0.07,
+  "exposure": 1.0,
+  "rolloff": 0.35,
+  "bloom": 0.81,
+  "bloom_threshold": 0.31,
+  "bloom_radius": 1.89,
+  "flare": 1.68,
+  "flare_threshold": 0.5,
+  "flare_streak": 1.28,
+  "flare_length": 6.5,
+  "nebula": 1.17,
+  "nebula_color_a": [
+    0.10196078431372549,
+    0.29411764705882354,
+    0.1607843137254902
+  ],
+  "nebula_color_b": [
+    0.42,
+    0.13,
+    0.34
+  ],
+  "star_density": 178.29,
+  "star_brightness": 1.76
+}

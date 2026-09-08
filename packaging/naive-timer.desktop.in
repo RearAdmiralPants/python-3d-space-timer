@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Naive Timer
+GenericName=Stopwatch and Timer
+Comment=Stopwatch and countdown timer with 3D-accelerated visuals
+Exec=@EXEC@
+Icon=naive-timer
+Terminal=false
+Categories=Utility;Clock;
+Keywords=timer;stopwatch;countdown;alarm;
+
+# The panel matches a window to this file by its WM_CLASS. Qt derives that
+# from QGuiApplication::setDesktopFileName(APP_ID) in app.py -- if you rename
+# one, rename the other, or the window falls back to the generic Python icon.
+StartupWMClass=naive-timer
